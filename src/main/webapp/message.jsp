@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Data Saved.........adsadsadfsasdadfsaadsf
+	Data Saved.......
 </body>
 </html>
